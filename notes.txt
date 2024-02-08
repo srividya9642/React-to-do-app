@@ -1,0 +1,7 @@
+steps to build raect to do application
+step:1> npx create-react-app React-to-do
+step:2>cd React-To-do
+step:3>open App.js file in src folder an dwrite code to create React-To-Do app
+step:4> run raect app
+>    npm start
+check the application running on local host
